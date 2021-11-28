@@ -56,8 +56,6 @@ struct ContentView: View {
                 } header: {
                     Text("Result")
                 }
-                
-                
             }
             .navigationTitle("TempConverter")
             .toolbar {
@@ -68,7 +66,6 @@ struct ContentView: View {
                     }
                 }
             }
-            
         }
     }
 }
